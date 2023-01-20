@@ -1,0 +1,47 @@
+{
+  "accroche": {
+    "title": "Regardez les archives audiovisuelles de la BnF",
+    "subTitle": "My subTitle"
+  },
+  "videos": [
+    {
+      "id": "video1",
+      "thumbnail": "/collectionsAudiovisuelles/common/images/element-image.jpg",
+      "title": "Cartes postales vidéo",
+      "clipTitle": "Nom de l’extrait",
+      "auteur": "Robert Cahen, Alain Longuet et Stéphane Huter",
+      "date": "1984-1986",
+      "duree": "31:03",
+      "production": "Production Thierry Garrel, INA",
+      "restauration": "Vidéo restaurée numériquement par Alain Longuet en 2022 Dpt Son, vidéo, multimédia",
+      "code": "VNUM-38108",
+      "provenance": "Prov. : don d’Alain Longuet en 2022"
+    },
+    {
+      "id": "video1",
+      "thumbnail": "/collectionsAudiovisuelles/common/images/element-image.jpg",
+      "title": "Cartes postales vidéo",
+      "clipTitle": "Nom de l’extrait",
+      "auteur": "Robert Cahen, Alain Longuet et Stéphane Huter",
+      "date": "1984-1986",
+      "duree": "31:03",
+      "production": "Production Thierry Garrel, INA",
+      "restauration": "Vidéo restaurée numériquement par Alain Longuet en 2022 Dpt Son, vidéo, multimédia",
+      "code": "VNUM-38108",
+      "provenance": "Prov. : don d’Alain Longuet en 2022"
+    },
+    {
+      "id": "",
+      "thumbnail": "/collectionsAudiovisuelles/common/images/element-image.jpg",
+      "title": "Cartes postales vidéo",
+      "clipTitle": "Nom de l’extrait",
+      "auteur": "Robert Cahen, Alain Longuet et Stéphane Huter",
+      "date": "1984-1986",
+      "duree": "31:03",
+      "production": "Production Thierry Garrel, INA",
+      "restauration": "Vidéo restaurée numériquement par Alain Longuet en 2022 Dpt Son, vidéo, multimédia",
+      "code": "VNUM-38108",
+      "provenance": "Prov. : don d’Alain Longuet en 2022"
+    }
+  ]
+}
